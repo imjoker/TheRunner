@@ -1,4 +1,4 @@
-# TheRunner
+# The Runner
 
 An endless platform game where the player collects fruits to increase score and avoid falling into a Waterbody or dashing into a Wolverine to beat the current high score and set a new one.
 
