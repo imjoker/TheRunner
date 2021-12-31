@@ -7,7 +7,7 @@ An endless platform game where the player collects fruits to increase score and 
 - Three different fruits are present, with each type of fruit adding different scores when collected.
 - Fruits spawn randomly at random locations with vertical positions varying between top, mid-air, or ground.
 - Waterbodies and Wolverines are also spawned randomly.
-- Colliding either with a Waterbody or with a Wolverine leads to the player's death.
+- Colliding with a Waterbody or a Wolverine leads to the player's death.
 - Persistence of high scores.
 - Instructions of the game.
 - Navigation between the scenes.
